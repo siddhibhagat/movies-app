@@ -66,7 +66,8 @@ Elasticsearch is integrated with the backend to provide fast and scalable movie 
 Docker and docker-compose are used to containerize the entire application, allowing easy setup, scaling, and management of the different services.
 
 # Architecture Diagram
-![moviesearch_architechture drawio](https://github.com/user-attachments/assets/6fdfd831-fa64-436b-8827-27415e0894ba)
+![moviesearch_architechture_diagram drawio](https://github.com/user-attachments/assets/9f6585df-bda6-4d0c-af09-839169bb4083)
+
 
 API Endpoints:
 - GET /api/movies/search?page=1&limit=10&term=
