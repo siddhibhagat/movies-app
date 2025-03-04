@@ -1,0 +1,13 @@
+# Node.js related
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Docker related files
+docker-compose.override.yml
+.docker/
+.dockerignore
+
+# Environment files
+.env
